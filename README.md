@@ -1,8 +1,8 @@
-<h3 align="center">Anup Kumar Panwar 
-  <br><br>
+<h2 align="center">Anup Kumar Panwar 
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anupkumarpanwar" alt="anupkumarpanwar" /> </p>
 
-</h3>
+</h2>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/anupkumarpanwar/" title="LinkedIn Profile"><img width="22" src="https://github.com/anupkumarpanwar/anupkumarpanwar/blob/master/images/linkedin.svg"> LinkedIn</a></code>
