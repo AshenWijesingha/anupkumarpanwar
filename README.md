@@ -1,5 +1,6 @@
 <h2 align="center">Anup Kumar Panwar 
-  
+ <br>
+  <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anupkumarpanwar" alt="anupkumarpanwar" /> </p>
 
 </h2>
